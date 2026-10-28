@@ -90,10 +90,17 @@ The game window displays the grid, player, target, and walls. The selected algor
 
 Close the game window to exit.
 
-## 🎓 Academic Purpose
+## Academic Purpose
 
 This project was developed as part of a university Discrete Mathematics course to explore graph traversal, search strategies, heuristic-based pathfinding, and their practical applications.
 
+## 🎓 Academic Information
+
+- **Course:** Discrete Mathematics
+- **Academic Level:** Bachelor's Degree — Second Semester
+- **Project Type:** Course Project
+- **Instructor:** Dr. Leila Azadkhah
+- **Project Date:** June ‎2025
 ---
 
 *Created for educational purposes.*
